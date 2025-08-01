@@ -10,5 +10,5 @@ Use this version in production builds. It has the same api as Bling, but there i
 
 ## Usage
 ```Clojure
-[io.github.paintparty/bling-stubs "0.8.8]
+[io.github.paintparty/bling-stubs "0.8.8"]
 ```
